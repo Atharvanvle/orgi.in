@@ -1,0 +1,22 @@
+html,body{
+    background-image:url("bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1,h2{
+    text-align: center;;
+    color:whitesmoke;
+}
+h3{
+    text-align: left;
+    color:blanchedalmond;
+}
+.header{
+    display:flex;
+    justify-content:space-between;
+}
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
